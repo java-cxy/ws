@@ -1,1 +1,1 @@
-# ws
+#Springboot2.x版本集成cxf框架开发Webservice远程调用接口
